@@ -1,6 +1,6 @@
 # dojojNinjaJava
 
-this is a video of the project and it working.
+this is a  link to a video of the project and it working. Click https://github.com/mholdenmd/dojojNinjaJava/blob/main/20210923211709864.mp4
 
 Full stack Java project on Spring Tool Suite 4.
 
